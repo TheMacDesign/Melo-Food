@@ -1,0 +1,194 @@
+{
+    "salad":[
+        {
+            "Id":1 ,
+            "item":"Lorem Ipsum",
+            "price":8
+        },
+        {
+            "Id":2 ,
+            "item":"Lorem Ipsum",
+            "price":10
+        },
+        {
+            "Id":3 ,
+            "item":"Lorem Ipsum",
+            "price":12
+        },
+        {
+            "Id":4 ,
+            "item":"Lorem Ipsum",
+            "price":15
+        },
+        {
+            "Id":5 ,
+            "item":"Lorem Ipsum",
+            "price":12
+        },
+        {
+            "Id":6 ,
+            "item":"Lorem Ipsum",
+            "price":20
+        }
+    ],
+    "sandwich":[
+        {
+            "Id":1 ,
+            "item":"Lorem Ipsum",
+            "price":25
+        },
+        {
+            "Id":2 ,
+            "item":"Lorem Ipsum",
+            "price":15
+        },
+        {
+            "Id":3 ,
+            "item":"Lorem Ipsum",
+            "price":20
+        },
+        {
+            "Id":4 ,
+            "item":"Lorem Ipsum",
+            "price":26
+        },
+        {
+            "Id":5 ,
+            "item":"Lorem Ipsum",
+            "price":30
+        },
+        {
+            "Id":6 ,
+            "item":"Lorem Ipsum",
+            "price":28
+        }
+    ],
+    "pizza":[
+        {
+            "Id":1 ,
+            "item":"Lorem Ipsum",
+            "price":30
+        },
+        {
+            "Id":2 ,
+            "item":"Lorem Ipsum",
+            "price":45
+        },
+        {
+            "Id":3 ,
+            "item":"Lorem Ipsum",
+            "price":35
+        },
+        {
+            "Id":4 ,
+            "item":"Lorem Ipsum",
+            "price":40
+        },
+        {
+            "Id":5 ,
+            "item":"Lorem Ipsum",
+            "price":30
+        },
+        {
+            "Id":6 ,
+            "item":"Lorem Ipsum",
+            "price":28
+        }
+    ],
+    "tacos":[
+        {
+            "Id":1 ,
+            "item":"Lorem Ipsum",
+            "price":30
+        },
+        {
+            "Id":2 ,
+            "item":"Lorem Ipsum",
+            "price":40
+        },
+        {
+            "Id":3 ,
+            "item":"Lorem Ipsum",
+            "price":32
+        },
+        {
+            "Id":4 ,
+            "item":"Lorem Ipsum",
+            "price":45
+        },
+        {
+            "Id":5 ,
+            "item":"Lorem Ipsum",
+            "price":25
+        },
+        {
+            "Id":6 ,
+            "item":"Lorem Ipsum",
+            "price":28
+        }
+    ],
+    "desert":[
+        {
+            "Id":1 ,
+            "item":"Lorem Ipsum",
+            "price":30
+        },
+        {
+            "Id":2 ,
+            "item":"Lorem Ipsum",
+            "price":25
+        },
+        {
+            "Id":3 ,
+            "item":"Lorem Ipsum",
+            "price":15
+        },
+        {
+            "Id":4 ,
+            "item":"Lorem Ipsum",
+            "price":18
+        },
+        {
+            "Id":5 ,
+            "item":"Lorem Ipsum",
+            "price":30
+        },
+        {
+            "Id":6 ,
+            "item":"Lorem Ipsum",
+            "price":27
+        }
+    ],
+    "juice":[
+        {
+            "Id":1 ,
+            "item":"Lorem Ipsum",
+            "price":20
+        },
+        {
+            "Id":2 ,
+            "item":"Lorem Ipsum",
+            "price":18
+        },
+        {
+            "Id":3 ,
+            "item":"Lorem Ipsum",
+            "price":22
+        },
+        {
+            "Id":4 ,
+            "item":"Lorem Ipsum",
+            "price":15
+        },
+        {
+            "Id":5 ,
+            "item":"Lorem Ipsum",
+            "price":20
+        },
+        {
+            "Id":6 ,
+            "item":"Lorem Ipsum",
+            "price":24
+        }
+    ]
+}
